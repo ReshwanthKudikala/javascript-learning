@@ -1,0 +1,23 @@
+.main{
+    text-align: center;
+}
+button{
+    text-align: center;
+    border: none;
+    background-color: dodgerblue;
+    color: bisque;
+    padding: 10px 20px;
+    font-size: 1.3rem;
+    margin-bottom: 50px;
+}
+
+table{
+    width: 600px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
